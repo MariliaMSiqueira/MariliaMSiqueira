@@ -20,9 +20,10 @@
 </div> <br>
 <div align="center">
   <a href="https://br.linkedin.com/in/mar%C3%ADlia-matias-siqueira-b2480a219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-  
-  ##
+ </div>
+
+##
+
 - 📖 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>
 - 😍 Ênfase na carreira <strong>FRONT-END</strong>, ambição futura em <strong>FULLSTACK</strong>
 - ✔️ Ativa na comunidade da <a href="https://web.dio.me/users/mariliamatiassiqueira?tab=achievements"><strong>DIO.me</strong></a>
@@ -30,5 +31,9 @@
 - 🎮 Gamer 
 - 🎼 Music 
 - 🐈 Pet lover 🐕 
+ 
+##
+  
 
- ![Snake animation](https://github.com/mariliamsiqueira/mariliamsiqueira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mariliamsiqueira/mariliamsiqueira/blob/output/github-contribution-grid-snake.svg)
+
