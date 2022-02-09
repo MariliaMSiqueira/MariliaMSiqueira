@@ -2,8 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/MariliaMSiqueira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mariliamsiqueira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariliamsiqueira&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mariliamsiqueira&show_icons=true&theme=midnight-purple&count_private=true&locale=en" alt="mariliamsiqueira" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariliamsiqueira&layout=compact&langs_count=7&theme=midnight-purple"/>
+    
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariliamsiqueira" alt="mariliamsiqueira" /></p>
   </a>
 </div>
   
@@ -19,7 +21,8 @@
   </a>
 </div> <br>
 <div align="center">
-  <a href="https://br.linkedin.com/in/mar%C3%ADlia-matias-siqueira-b2480a219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/mar%C3%ADlia-matias-siqueira-b2480a219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
+  <img src="https://komarev.com/ghpvc/?username=mariliamsiqueira&label=Profile%20views&color=0e75b6&style=flat" alt="mariliamsiqueira" />
  </div>
 
 ##
