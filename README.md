@@ -26,7 +26,7 @@
  </div>
 
 ##
-- https://mariliamsiqueira.github.io/marilia-m-siqueira/
+- 👋🏻 [Venha me conhecer! ](https://github.com/MariliaMSiqueira/marilia-m-siqueira)
 - 📖 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>
 - 😍 Ênfase na carreira <strong>FRONT-END</strong>, ambição futura em <strong>FULLSTACK</strong>
 - ✔️ Ativa na comunidade da <a href="https://web.dio.me/users/mariliamatiassiqueira?tab=achievements"><strong>DIO.me</strong></a>
